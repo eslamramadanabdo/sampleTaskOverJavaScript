@@ -4,8 +4,8 @@
 let w = document.getElementById('wid');
 let h = document.getElementById('high');
 let bg = document.getElementById('bg');
-let btn2 = document.getElementById('btn');
-let div3 = document.getElementById('div');
+let btn2 = document.getElementById('btn2');
+let div3 = document.getElementById('div2');
 
 var addStyle = ()=>{
     div3.style.width = w.value + "px";
