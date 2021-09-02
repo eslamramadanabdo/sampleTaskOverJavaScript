@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+}
+
+div{
+    width: 50%;
+}
+
+.dark{
+
+    height: auto;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+.light{
+    height: auto;
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+
+button{
+    width: 100%;
+}
