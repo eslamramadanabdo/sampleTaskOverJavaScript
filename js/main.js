@@ -1,20 +1,20 @@
 
 //=================style task=======================
 
-// let w = document.getElementById('wid');
-// let h = document.getElementById('high');
-// let bg = document.getElementById('bg');
-// let btn = document.getElementById('btn');
-// let div = document.getElementById('div');
+let w = document.getElementById('wid');
+let h = document.getElementById('high');
+let bg = document.getElementById('bg');
+let btn = document.getElementById('btn');
+let div = document.getElementById('div');
 
-// var addStyle = ()=>{
-//     div.style.width = w.value + "px";
-//     div.style.height = h.value + "px";
-//     div.style.backgroundColor = bg.value;
-// }
+var addStyle = ()=>{
+    div.style.width = w.value + "px";
+    div.style.height = h.value + "px";
+    div.style.backgroundColor = bg.value;
+}
 
 
-// btn.addEventListener('click' , addStyle);
+btn.addEventListener('click' , addStyle);
 
 
 //==============================================================
